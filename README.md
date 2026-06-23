@@ -1,4 +1,4 @@
-<h1 align="center">🤖 AI Laboratory</h1>
+<h1 align="center">🤖 My AI Laboratory</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=12,20,24&text=Dimuth%20Samaraoon&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Undergraduate%20|%20Backend%20Developer&descAlignY=65"/>
@@ -108,8 +108,17 @@ const dimuth = {
 * 📌 Future AI Projects
 
 ---
+ What I'm Working On
+  <ul>
+<li>Building Full-Stack Web Applications</li>
+<li>Learning Modern Backend Development</li>
+<li>Practicing Data Structures & Algorithms</li>
+<li>Exploring Cloud Technologies</li>
+<li>Improving Software Design Skills</li>
+  </ul>
+</li>
+
 
 <p align="center">
-  <b>🤖 Welcome to my AI Laboratory</b>
+  <b>🤖 Welcome To My AI Laboratory</b>
 </p>
-```
