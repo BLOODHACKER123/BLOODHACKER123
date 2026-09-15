@@ -173,10 +173,11 @@ const dimuth = {
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/BLOODHACKER123/BLOODHACKER123/output/github-contribution-grid-snake-dark.svg](https://github.com/BLOODHACKER123/BLOODHACKER123/blob/gh-pages/github-contribution-grid-snake-dark.svg)" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/BLOODHACKER123/BLOODHACKER123/gh-pages/github-contribution-grid-snake-dark.svg"
+     alt="Snake Animation"
+     width="100%" />
 
 </div>
----
 
 ## 💻 Featured Projects
 
