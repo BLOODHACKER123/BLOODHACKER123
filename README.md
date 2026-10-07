@@ -90,7 +90,7 @@ const dimuth = {
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,js,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,python,ts,js,php&theme=dark" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
